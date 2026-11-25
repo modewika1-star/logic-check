@@ -1,4 +1,6 @@
-# 🎯 Number 15 Checker
+# LogicCheck | Number 15 Challenge
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://number-15-logic-checker-2-mjs.vercel.app/)
 
 A JavaScript conditional-logic exercise that checks whether either of two entered numbers is 15, or whether their sum equals 15.
 
